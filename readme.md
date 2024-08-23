@@ -1,2 +1,2 @@
-# rpg-from-scratch
+# 2D RPG Framework
 Yet another side project.
