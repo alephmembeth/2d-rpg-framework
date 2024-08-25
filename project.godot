@@ -10,6 +10,7 @@ config_version=5
 
 [application]
 
-config/name="rpg-from-scratch"
-config/features=PackedStringArray("4.2", "Forward Plus")
+config/name="2d-rpg-framework"
+run/main_scene="res://levels/world.tscn"
+config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://icon.svg"
