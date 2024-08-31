@@ -2,4 +2,5 @@
 
 - [x] grass
 - [x] gravel path
-- [ ] water (animated)
+- [x] water (animated)
+- [ ] walls
