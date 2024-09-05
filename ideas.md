@@ -4,4 +4,6 @@
 - [ ] tall grass
 - [x] gravel path
 - [x] water (animated)
-- [ ] walls
+- [ ] wall
+- [ ] fence
+- [ ] tree
